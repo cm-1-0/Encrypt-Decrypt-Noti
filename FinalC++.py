@@ -44,7 +44,7 @@ def unlock():
             a += 1
         print("Access Granted")
     else:
-        print("Program Terminating")
+        print("Incorrect Password. Terminating")
         sys.exit()
 
 
